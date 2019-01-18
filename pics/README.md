@@ -1,4 +1,4 @@
-Prompts the user for their location and provides a different landing screen based on the season they are in.
+A simple picture search engine utilising the unsplash api and axios
 
 ## Available Scripts
 
