@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Clicking on the flags changes the language of the text. Utilized hooks to refactor class based components into functional components.
+Note - the input doesn't do anything.
 
 ## Available Scripts
 
