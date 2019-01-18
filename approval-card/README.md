@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple approval card app(no functionality) utilising semantic.ui for CSS and faker.js for randomised fake data
 
 ## Available Scripts
 
