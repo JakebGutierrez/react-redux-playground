@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Generates a large list of fake blog post data using faker.js, redux-thunk and async actions
 
 ## Available Scripts
 
