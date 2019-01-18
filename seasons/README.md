@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Prompts the user for their location and provides a different landing screen based on the season they are in.
 
 ## Available Scripts
 
