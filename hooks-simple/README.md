@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple application that introduced me to hooks by calculating and sorting data 
 
 ## Available Scripts
 
