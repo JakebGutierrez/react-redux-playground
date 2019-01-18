@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple youtube clone created by using the youtube api, rendering video players as well as CSS styling
 
 ## Available Scripts
 
