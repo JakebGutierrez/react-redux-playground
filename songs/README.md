@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A user clicks on a button, and it displays the information about 5 pre listed songs. Demonstrates the basics of how redux and reducers work.
 
 ## Available Scripts
 
