@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple image search engine demonstrating the unsplash api and axios
 
 ## Available Scripts
 
